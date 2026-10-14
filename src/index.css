@@ -2694,6 +2694,12 @@ img {
   --case-border: rgba(173, 117, 255, 0.28);
 }
 
+.project-unisphere {
+  --case-accent: #7dd3fc;
+  --case-soft: rgba(125, 211, 252, 0.10);
+  --case-border: rgba(125, 211, 252, 0.28);
+}
+
 .project-case.project-reverse {
   grid-template-columns: 1.18fr 0.82fr;
 }

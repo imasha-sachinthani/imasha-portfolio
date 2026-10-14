@@ -77,6 +77,27 @@ const projects = [
     github:
       'https://github.com/imasha-sachinthani/jj-apexaura-website',
   },
+
+  {
+    number: '04',
+    slug: 'unisphere',
+    name: 'UniSphere',
+    label: 'University Student Management Platform',
+    description:
+      'A full-stack Flutter application that centralizes assignments, notices, timetable, marketplace, lost & found, and student profile management in one streamlined campus experience.',
+    problem:
+      'Students often rely on multiple disconnected tools for academic tasks and campus updates. UniSphere brings essential university services together to improve accessibility, organization and communication.',
+    tech: [
+      'Flutter',
+      'Dart',
+      'Firebase Auth',
+      'Firestore',
+      'Firebase Storage',
+      'Provider',
+      'Material UI',
+    ],
+    github: 'https://github.com/imasha-sachinthani/UniSphere.git',
+  },
 ]
 
 function HireLankaVisual() {
